@@ -1,6 +1,5 @@
 funcionario\Funcionario.class
 endereco\UnidadeFederativa.class
-funcionario\EstadoCivil.class
 cargos\Advogado.class
 funcionario\Setor.class
 funcionario\Genero.class
